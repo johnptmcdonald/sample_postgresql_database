@@ -1,7 +1,7 @@
 # Using the IMDB database in PostgreSQL
 
 ## Usage
-Create a database called 'imdb':
+Create a database called _imdb-sample_:
 
 You can do this from your regular command line:
 `$ createdb imdb-sample`
